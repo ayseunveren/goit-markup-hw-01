@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Resim Kullanımı</title>
+</head>
+<body>
+   <img src="resimler/DanielWilson.jpg" alt="Daniel Wilson" width="264px" height="260px">
+   <img src="resimler/Tom Ford.jpg" alt="Tom Ford" width="264px" height="260px">
+   <img src="resimler/Camila Garcia.jpg" alt="Camila Garcia" width="264px" height="260px">
+   <img src="resimler/Mark Guerrero.jpg" alt="Mark Guerrero" width="264px" height="260px">
+</body>
+</html>
